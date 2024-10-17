@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Authur - Faizan Qadri
+Authur - Faizan (Qadri)ls
